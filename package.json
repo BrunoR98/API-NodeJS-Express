@@ -1,0 +1,25 @@
+{
+  "name": "api-nodejs-express",
+  "version": "1.0.0",
+  "description": "API by midudev with NodeJS and Express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoR98/API-NodeJS-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoR98/API-NodeJS-Express/issues"
+  },
+  "homepage": "https://github.com/BrunoR98/API-NodeJS-Express#readme",
+  "dependencies": {
+    "express": "4.18.1",
+    "nodemon": "2.0.18"
+  }
+}
